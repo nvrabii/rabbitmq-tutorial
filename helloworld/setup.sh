@@ -1,0 +1,1 @@
+export CP=.:../lib/amqp-client-5.7.1.jar:../lib/slf4j-simple-1.7.26.jar:../lib/slf4j-api-1.7.26.jar

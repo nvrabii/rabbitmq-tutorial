@@ -1,0 +1,6 @@
+# build
+*.class
+build/
+
+# system
+.DS_Store
